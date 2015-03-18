@@ -1,0 +1,1 @@
+Directory for app-specific configuration, i.e. Comments settings.

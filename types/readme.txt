@@ -1,0 +1,1 @@
+Directory for object types, once set up through back end.
