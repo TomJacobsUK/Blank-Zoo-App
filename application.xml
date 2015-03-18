@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<application>
+    <name>Blank App</name>
+    <group>blank-zoo-app</group>
+    <version>1.0.0</version>
+    <creationDate>March 2015</creationDate>
+    <author>Kurt Noone</author>
+    <authorEmail>kurt @ kurtnoone.co.uk</authorEmail>
+    <authorUrl>www.kurtnoone.co.uk</authorUrl>
+    <copyright>Copyright (C) kurtnoone.co.uk</copyright>
+    <description>Blank App for Extending Zoo</description>
+    
+    <params group="application-config">
+	</params>
+	<params group="category-config">
+	</params>
+
+	<params group="item-config">
+	</params>
+	<params group="application-content">
+	</params>
+	<params group="category-content">
+
+	</params>
+	<params group="item-content">
+	</params>
+</application>
