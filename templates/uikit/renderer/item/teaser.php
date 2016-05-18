@@ -22,9 +22,9 @@ $align = ($this->checkPosition('media')) ? $params->get('template.teaseritem_med
 <?php endif; ?>
 
 <?php if ($this->checkPosition('title')) : ?>
-<h1 class="uk-article-title">
+<h2 class="uk-article-title">
 	<?php echo $this->renderPosition('title'); ?>
-</h1>
+</h2>
 <?php endif; ?>
 
 <?php if ($this->checkPosition('subtitle')) : ?>

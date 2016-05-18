@@ -21,9 +21,9 @@ $params = $item->getParams('site');
 <?php endif; ?>
 
 <?php if ($this->checkPosition('title')) : ?>
-<h1 class="pos-title">
+<h2 class="pos-title">
 	<?php echo $this->renderPosition('title'); ?>
-</h1>
+</h2>
 <?php endif; ?>
 
 <?php if ($this->checkPosition('meta')) : ?>
